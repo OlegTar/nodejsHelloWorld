@@ -18,5 +18,6 @@
   "homepage": "https://github.com/OlegTar/nodejsHelloWorld#readme",
   "engines": {
     "node": "10.3.0"
-  }
+  },
+  "start": "node index"
 }
