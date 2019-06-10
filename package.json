@@ -19,5 +19,5 @@
   "engines": {
     "node": "10.3.0"
   },
-  "start": "node index"
+  "start": "node index.js"
 }
